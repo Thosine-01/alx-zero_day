@@ -1,2 +1,2 @@
 
-Updating my readme file as required from the project
+Updating my readme file 
